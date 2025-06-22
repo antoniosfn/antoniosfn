@@ -1,9 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=FFC000&multiline=true&width=435&lines=Welcome+to+my+projects+portfolio!)](https://git.io/typing-svg)
 <body>
   
-  ### I'm Antonio, a Computer Engineering student at PUCPR, developing the future with Mobile Robotics, C, and Python.
-
-- 6th semester of Computer Engineering
-- E-mail: antoniozdm4gmail.com
+- 6th semester of Computer Engineering at Pontifical Catholic University of Paraná
+- E-mail: antoniozdm4@gmail.com
 - Linkedin: https://www.linkedin.com/in/antoniosfn/
 - PUC Carreiras: https://pucpr-csm.symplicity.com/profiles/antonio.neto37
 - Currículo Lattes: https://lattes.cnpq.br/9278827343561928
@@ -25,7 +24,7 @@
 </div>
 
 ##
-
+### Developing the future with Mobile Robotics, C, and Python.
 ### Skills:
 
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;"><br>
