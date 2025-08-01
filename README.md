@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=FFC000&multiline=true&width=435&lines=Welcome+to+my+projects+portfolio!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=5000&color=FFC000&multiline=true&width=435&lines=Welcome+to+my+projects+portfolio!)](https://git.io/typing-svg)
 <body>
   
 Hailing from the interior of Pará, I bring a worldview forged at the intersection of technology, innovation, and sustainability. Three years ago, that conviction gave me the impetus to redraw my own map and come to Curitiba. I've learned that my journey from north to south wasn't about geography, but about a deeper search: finding a place where my ideas could truly blossom and my ambition could be fulfilled.
@@ -15,7 +15,7 @@ Hailing from the interior of Pará, I bring a worldview forged at the intersecti
 </div>
 
 ##
-### Developing the future with Data, Mobile Robotics, C, and Python.
+### Developing the future with Data, AI, Mobile Robotics, C, and Python.
 ### Skills:
 
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;"><br>
