@@ -4,9 +4,8 @@
 Hailing from the interior of Pará, I bring a worldview forged at the intersection of technology, innovation, and sustainability. Three years ago, that conviction gave me the impetus to redraw my own map and come to Curitiba. I've learned that my journey from north to south wasn't about geography, but about a deeper search: finding a place where my ideas could truly blossom and my ambition could be fulfilled.
   
 - 6th semester of Computer Engineering at Pontifical Catholic University of Paraná
-- E-mail: antoniozdm4@gmail.com
-- PUC Carreiras: https://pucpr-csm.symplicity.com/profiles/antonio.neto37
-- Currículo Lattes: https://lattes.cnpq.br/9278827343561928
+- Graduated in Mathematics (2018-2021) with a thesis titled "Prime Numbers in the protection of virtual data: RSA Cryptography and its applications on the Internet".
+
 - Linkedin: https://www.linkedin.com/in/antoniosfn/
 
 <div style="display: flex; align-items: center; justify-content: center;">
