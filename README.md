@@ -4,7 +4,7 @@
 Hailing from the interior of Pará, I bring a worldview forged at the intersection of technology, innovation, and sustainability. Three years ago, that conviction gave me the impetus to redraw my own map and come to Curitiba. I've learned that my journey from north to south wasn't about geography, but about a deeper search: finding a place where my ideas could truly blossom and my ambition could be fulfilled.
   
 - 6th semester of Computer Engineering at Pontifical Catholic University of Paraná
-- Graduated in Mathematics (2018-2021) from the State University of Pará, with a thesis entitled "Prime numbers in the protection of virtual data: RSA encryption and its applications on the Internet".
+- Graduated in Mathematics (2018-2021) from the State University of Pará, with a thesis entitled "Prime Numbers in the Protection of Virtual Data: RSA Encryption and its Applications on the Internet".
 
 - Linkedin: https://www.linkedin.com/in/antoniosfn/
 
