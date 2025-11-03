@@ -6,7 +6,7 @@ Criado no Pará desde o meu primeiro ano de vida, no Norte do Brasil, carrego um
 Atualmente, estou cursando o 6º semestre de Engenharia de Computação na Pontifícia Universidade Católica do Paraná (PUCPR).
 Sou graduado em Matemática (2018–2021) pela Universidade do Estado do Pará (UEPA), com a monografia intitulada “Números Primos na Proteção de Dados Virtuais: Criptografia RSA e suas Aplicações na Internet.”
 
-🔗 LinkedIn: linkedin.com/in/antoniosfn
+🔗 LinkedIn: [linkedin.com/in/antoniosfn](https://www.linkedin.com/in/antoniosfn/)
 
 <div style="display: flex; align-items: center; justify-content: center;">
   
