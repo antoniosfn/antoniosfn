@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=5000&color=FFC000&multiline=true&width=435&lines=Welcome+to+my+projects+portfolio!)](https://git.io/typing-svg)
 <body>
   
-Criado no Pará desde o meu primeiro ano de vida, no Norte do Brasil, carrego uma visão de mundo moldada pela intersecção entre tecnologia, inovação e sustentabilidade. Em 2022, essa convicção me impulsionou a redesenhar meu próprio mapa e seguir para Curitiba, no Sul do país. Com o tempo, percebi que essa jornada de norte a sul não dizia respeito apenas à geografia, mas a uma busca mais profunda: encontrar um lugar onde minhas ideias pudessem florescer e minha ambição ganhasse propósito.
+Estou me tornando um especialista em transformação digital e automação de processos, aplicando dados, engenharia de software para aumentar eficiência operacional e apoiar decisões estratégicas.
 
-Atualmente, estou cursando o 6º semestre de Engenharia de Computação na Pontifícia Universidade Católica do Paraná (PUCPR).
-Sou graduado em Matemática (2018–2021) pela Universidade do Estado do Pará (UEPA), com a monografia intitulada “Números Primos na Proteção de Dados Virtuais: Criptografia RSA e suas Aplicações na Internet.”
+Também atuo como técnico em eletrônica e gestor financeiro na Equipe PUCPR de Robótica Móvel, coordenando recursos, alinhando prioridades e conectando visão técnica e administrativa em Pesquisa, Desenvolvimento e Inovação.
+
+Meu objetivo é desenvolver soluções claras, robustas e orientadas a impacto, sempre com foco em eficiência, qualidade e valor para o negócio.
 
 🔗 LinkedIn: [linkedin.com/in/antoniosfn](https://www.linkedin.com/in/antoniosfn/)
 
