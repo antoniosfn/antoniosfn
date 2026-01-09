@@ -9,10 +9,6 @@ Meu objetivo é desenvolver soluções claras, robustas e orientadas a impacto, 
 
 🔗 LinkedIn: [linkedin.com/in/antoniosfn](https://www.linkedin.com/in/antoniosfn/)
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  
-  <img height= "180px" width="380px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniosfn&hide=cython,hack,css,powershell&layout=compact&theme=vision-friendly-dark"/>
-</div>
 
 ##
 ### Desenvolvendo o futuro por meio da Transformação Digital, impulsionada por Dados, Inteligência Artificial, Robótica Móvel, C e Python.
