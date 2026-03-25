@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=5000&color=FFC000&multiline=true&width=435&lines=Welcome+to+my+projects+portfolio!)](https://git.io/typing-svg)
 <body>
   
-Estou me tornando um especialista em transformação digital e automação de processos, aplicando dados, engenharia de software para aumentar eficiência operacional e apoiar decisões estratégicas.
+Pesquisador em transformação digital e automação de processos, aplicando dados, engenharia de software para aumentar eficiência operacional e apoiando decisões estratégicas.
 
 Também atuo como técnico em eletrônica e gestor financeiro na Equipe PUCPR de Robótica Móvel, coordenando recursos, alinhando prioridades e conectando visão técnica e administrativa em Pesquisa, Desenvolvimento e Inovação.
 
