@@ -3,15 +3,15 @@
   
 Pesquisador em transformação digital e automação de processos, aplicando dados, engenharia de software para aumentar eficiência operacional e apoiando decisões estratégicas.
 
-Também atuo como técnico em eletrônica e gestor financeiro na Equipe PUCPR de Robótica Móvel, coordenando recursos, alinhando prioridades e conectando visão técnica e administrativa em Pesquisa, Desenvolvimento e Inovação.
+Membro da Equipe PUCPR de Robótica Móvel desde 2023. Colaboro voluntariamente realizando projetos de PD&I com foco em computação e elétrica, coordenando recursos, alinhando prioridades e conectando visão técnica e administrativa em Pesquisa, Desenvolvimento e Inovação.
 
-Meu objetivo é desenvolver soluções claras, robustas e orientadas a impacto, sempre com foco em eficiência, qualidade e valor para o negócio.
+Meu objetivo é desenvolver soluções tecnológicas e sustentáveis, sempre com foco em eficiência, qualidade e valor para o negócio.
 
 🔗 LinkedIn: [linkedin.com/in/antoniosfn](https://www.linkedin.com/in/antoniosfn/)
 
 
 ##
-### Desenvolvendo o futuro por meio da Transformação Digital, impulsionada por Dados, Inteligência Artificial, Robótica Móvel, C e Python.
+### Desenvolvendo o futuro por meio da Transformação Digital, impulsionada por Dados, Inteligência Artificial e Matemática aplicada.
 ### Soft Skills: Autodidata, Comunicativo, Trabalho em Equipe e Proatividade.
 ### Hard Skills:
 
