@@ -5,20 +5,20 @@ Pesquisador em transformação digital e automação de processos, aplicando dad
 
 Membro da Equipe PUCPR de Robótica Móvel desde 2023. Colaboro voluntariamente realizando projetos de PD&I com foco em computação e elétrica, coordenando recursos, alinhando prioridades e conectando visão técnica e administrativa em Pesquisa, Desenvolvimento e Inovação.
 
+Formado em Matemática pela UEPA (2018-2021). Pós-graduado em Matemática e Finanças.
+
 Meu objetivo é desenvolver soluções tecnológicas e sustentáveis, sempre com foco em eficiência, qualidade e valor para o negócio.
 
 🔗 LinkedIn: [linkedin.com/in/antoniosfn](https://www.linkedin.com/in/antoniosfn/)
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=@cupido169&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 
 
 ##
 ### Desenvolvendo o futuro por meio da Transformação Digital, impulsionada por Dados, Inteligência Artificial e Matemática aplicada.
 ### Soft Skills: Autodidata, Comunicativo, Trabalho em Equipe e Proatividade.
 ### Hard Skills:
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=antoniosfn&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-</div>
 
 ###
 
@@ -84,8 +84,11 @@ Meu objetivo é desenvolver soluções tecnológicas e sustentáveis, sempre com
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=@cupido169&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=antoniosfn&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+</div>
+
+###
 
   </a>
 </div>
