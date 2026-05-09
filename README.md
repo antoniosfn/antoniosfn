@@ -3,11 +3,9 @@
   
 Pesquisador em transformação digital e automação de processos, aplicando dados, engenharia de software para aumentar eficiência operacional e apoiando decisões estratégicas.
 
-Membro da Equipe PUCPR de Robótica Móvel desde 2023. Colaboro voluntariamente realizando projetos de PD&I com foco em computação e elétrica, coordenando recursos, alinhando prioridades e conectando visão técnica e administrativa em Pesquisa, Desenvolvimento e Inovação.
+Membro da Equipe PUCPR de Robótica Móvel desde 2023. Colaboro voluntariamente realizando projetos de PD&I com foco em computação e pilotando robôs RC, alinhando prioridades e conectando visão técnica e administrativa em Pesquisa, Desenvolvimento e Inovação.
 
-Formado em Matemática pela UEPA (2018-2021). Pós-graduado em Matemática e Finanças.
-
-Meu objetivo é desenvolver soluções tecnológicas e sustentáveis, sempre com foco em eficiência, qualidade e valor para o negócio.
+Formado em Matemática pela UEPA (2018-2021). Meu objetivo é desenvolver soluções tecnológicas e sustentáveis, sempre com foco em eficiência, qualidade e valor para o negócio.
 
 🔗 LinkedIn: [linkedin.com/in/antoniosfn](https://www.linkedin.com/in/antoniosfn/)
 
