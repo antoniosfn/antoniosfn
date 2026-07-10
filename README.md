@@ -9,9 +9,6 @@ Formado em Matemática pela UEPA (2018-2021). Meu objetivo é desenvolver soluç
 
 🔗 LinkedIn: [linkedin.com/in/antoniosfn](https://www.linkedin.com/in/antoniosfn/)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=@cupido169&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-
 
 ##
 ### Desenvolvendo o futuro por meio da Transformação Digital, impulsionada por Dados, Inteligência Artificial e Matemática aplicada.
