@@ -1,14 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=5000&color=FFC000&multiline=true&width=435&lines=Welcome+to+my+projects+portfolio!)](https://git.io/typing-svg)
 <body>
-  
-Pesquisador em transformação digital e automação de processos, aplicando dados, engenharia de software para aumentar eficiência operacional e apoiando decisões estratégicas.
-
-Membro da Equipe PUCPR de Robótica Móvel desde 2023. Colaboro voluntariamente realizando projetos de PD&I com foco em computação e pilotando robôs RC, alinhando prioridades e conectando visão técnica e administrativa em Pesquisa, Desenvolvimento e Inovação.
 
 Formado em Matemática pela UEPA (2018-2021). Meu objetivo é desenvolver soluções tecnológicas e sustentáveis, sempre com foco em eficiência, qualidade e valor para o negócio.
 
 🔗 LinkedIn: [linkedin.com/in/antoniosfn](https://www.linkedin.com/in/antoniosfn/)
-
 
 ##
 ### Desenvolvendo o futuro por meio da Transformação Digital, impulsionada por Dados, Inteligência Artificial e Matemática aplicada.
@@ -62,19 +57,16 @@ Formado em Matemática pela UEPA (2018-2021). Meu objetivo é desenvolver soluç
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+
 </div>
 
 ###
